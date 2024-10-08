@@ -1,0 +1,77 @@
+body {
+    background-color: aqua;
+    font-family: Arial;
+
+}
+
+.produk-card {
+    display: table;
+    margin: 0 auto;
+    background-color: white;
+    width: 450px;
+}
+.produk-card
+.produk-img {
+    border-radius: 15px;
+}
+
+.produk-image {
+    background-color: darkgray;
+    text-align: center;
+    padding: 20px 0;
+}
+.produk-image img{
+    max-width: 100%;
+    width: 45%;
+}
+
+.produk-title {
+    float: left;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 20px;    
+}
+
+.produk-price {
+    float: right;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 20px;    
+}
+
+.produk-deskrip {
+    font-size: 10px;
+    color: black;
+}
+
+.produk-button {
+    text-decoration:none ;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.produk-buynow {
+    float: left;
+    background-color: red;
+}
+
+.produk-addcart {
+    float: right;
+    background-color: lightblue;
+}
+
+.produk-margin-left {
+    margin-left: 20px;
+}
+.produk-margin-right {
+    margin-right: 20px;
+}
+.produk-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.clear-both {
+    clear: both;
+}
