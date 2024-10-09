@@ -1,5 +1,7 @@
 # Proyek Halaman Produk Sepatu
 
+<img src="dioro.png">
+
 Proyek ini adalah sebuah halaman HTML sederhana yang menampilkan informasi mengenai produk sepatu merek Dior. Halaman ini dirancang untuk memberikan pengguna informasi dasar tentang produk serta pilihan untuk membelinya atau menambahkannya ke keranjang.
 
 ## Fitur
